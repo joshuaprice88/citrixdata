@@ -2,14 +2,14 @@
   {
     "id": 1,
     "Desktop": "Technician Desktop",
-    "Apps": [
+    "Apps": {
       "7-zip",
       "AD LookoutStatus",
       "Adobe Acrobat DC",
       "Bluebeam Revu Standard",
       "Bomgar Automatic Elevation Service",
       "Bomgar Representative Console",
-     ],
+    },
   },
   {
     "id": 2,
