@@ -1,13 +1,31 @@
-
-  {
-    "posts":[
-      {
-        "id": 1,
-        "Desktop": "Technician Desktop",
-        "Apps": ["7-zip", "AD LookoutStatus", "Adobe Acrobat DC", "Bluebeam Revu Standard", "Bomgar Automatic Elevation Service", "Bomgar Representative Console"],
-      }
-    ] 
- }
-
+{
+    "posts": [
+      { "id": 1, "title": "7-zip" },
+      { "id": 2, "title": "AD LookoutStatus" },
+      { "id": 3, "title": "Adobe Acrobat DC" },
+      { "id": 4, "title": "Bluebeam Revu Standard" },
+      { "id": 5, "title": "Bomgar Automatic Elevation Service" },
+      { "id": 6, "title": "Bomgar Representative Console" },
+      { "id": 7, "title": "Cisco Webex Meetings" },
+      { "id": 8, "title": "Cisco Webex Productivity Tools" },
+      { "id": 9, "title": "Citrix XenCenter" },
+      { "id": 10, "title": "Client Center for Configuration MAnager" },
+      { "id": 12, "title": "CMPivot" },
+      { "id": 13, "title": "Configuration Manager Support Center" },
+      { "id": 14, "title": "DisplayFusion" },
+      { "id": 15, "title": "GIMP" },
+      { "id": 16, "title": "Git" },
+      { "id": 17, "title": "Google Chrome" },
+      { "id": 18, "title": "Greenshot" },
+      { "id": 19, "title": "Inkscape" }
+    ],
+    "comments": [
+      { "id": 1, "body": "some comment", "postId": 1 },
+      { "id": 2, "body": "some comment", "postId": 1 }
+    ],
+    "profile": {
+      "name": "typicode"
+    }
+}
 
 
